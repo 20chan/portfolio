@@ -20,7 +20,6 @@
 
 - [bumble](https://github.com/phillyai/bumble)
   - 함수형 프로그래밍 입문자용 스크립트 언어 디자인 및 인터프리터
-  - VM은 C언어로, 그 외는 파이썬3로 제작 예정
   - 구현
     - [x] 토큰 분리
     - [ ] 파서
@@ -91,8 +90,10 @@
 
 ### Language
 
-|  Lanuages  | 여기에 뭘 적어야 할까요 엉엉 |
-| :--------: | :--------------: |
-|     C#     |                  |
-|   Python   |                  |
-| Javascript |                  |
+|    Skill    |                                          |
+| :---------: | :--------------------------------------: |
+|  Language   | C#, Python3, Javascript, Elixir, Haskell |
+|     VCS     |               git(Github)                |
+|     OS      |       Windows, Linux(Arch, Ubuntu)       |
+|   Editor    |        VS, IntelliJ(pycharm), vim        |
+| Disassembly |        .NET (IL), python bytecode        |
