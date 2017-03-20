@@ -25,6 +25,8 @@
     - [ ] 파서
     - [ ] 최적화
     - [ ] VM
+- [일일커밋 봇](https://github.com/phillyai/commit-twitter-bot)
+  - 클라우드에 올려서 작동하는 일일커밋 알림 봇
 - [USBasKey](https://github.com/phillyai/USBasKey)
   - USB를 암호로 사용하는 화면 보호기
   - 차후 추가할 것
@@ -97,3 +99,4 @@
 |     OS      |       Windows, Linux(Arch, Ubuntu)       |
 |   Editor    |        VS, IntelliJ(pycharm), vim        |
 | Disassembly |        .NET (IL), python bytecode        |
+|     Etc     |                  heroku                  |
