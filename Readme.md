@@ -34,58 +34,65 @@
 - [ChatBot](https://github.com/phillyai/ChatBot)
   - CBR 알고리즘을 사용한 챗봇
   - C#으로 만들어졌고, 나는 프로그래머다 컨퍼런스에서 발표한적이 있음
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 런타임중에 재학습
     - 가중치 설정 방식 변경
     - 다른 언어로 구현, 혹은 리팩토링
 - [Linking](https://github.com/phillyai/Linking-VPL)
   - 스크래치같은 Visual Programming Language
   - C#으로 제작
-  - 차후 보안할 점
+  - 차후 보완할 점
     - UI 개선
     - 코드로 변환 후 VM에서 실행
 - [Aheui++](https://github.com/phillyai/Aheuiplusplus)
   - [난해한 프로그래밍 언어 아희](https://aheui.github.io/introduction.ko) 인터프리터/디버거
   - C#으로 제작
-  - 차후 보안할 점
+  - 차후 보완할 점
     - IME API를 만져서 실시간 코드 하이라이팅이 되는 에디터 만들기
     - 디버거 UI 제작
 - [UIEngine](https://github.com/phillyai/UIEngine)
   - C# 슬라이드쇼 프레임워크
   - 슬라이드, 오브젝트 애니메이션 등의 기능들을 구현
-  - 차후 보안할 점
+  - 차후 보완할 점
     - GDI+로 제작됬는데 다른 그래픽 라이브러리를 사용하여 최적화
     - 폼 에디터 제작
 - [Excelly](https://github.com/phillyai/Excelly)
   - 간단한 통계 연산을 지원하는 스프레드시트
   - 통계 수업시간에 필요하여 C#으로 간단히 제작, 다양한 통계 함수 지원
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 파싱 알고리즘 변경
     - 리팩토링 후 최적화
 - [CodeCounter](https://github.com/phillyai/CodeCounter)
   - 코드 라인 카운터
   - 간단한 문법을 구현하여 언어마다 소스 코드에서 실질적인 코드의 라인만 세줌
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 정규식 지원
     - 자세한 코드 분석
 - [2048](https://github.com/phillyai/2048)
   - 인기있던 모바일 게임 2048에 다양한 옵션을 추가하여 데스크톱 어플리케이션으로 제작
   - 그래픽의 사용 없이 오직 폼 컨트롤만으로 구현
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 알고리즘 최적화 및 코드 리팩토링
 - [CaptIt](https://github.com/phillyai/CaptIt_Renewer)
   - 윈도우 기반 화면 캡쳐 및 자동 저장 프로그램
   - UI와 사용자 입장에서 생각하는 방법을 알게 해준 프로젝트
   - 코딩을 시작하고 얼마 안됬을 때부터 제작하기 시작하여 두번 갈아엎고 다시 제작하고 수십번 리팩토링하여 코딩 스타일에 감을 잡게 해준 프로젝트
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 멀티스레딩 문제 해결
 - [네이버 알리미](https://github.com/phillyai/NaverAlarm)
   - 네이버 알림이 오면 데스크톱 알림으로 알려줌
   - 블로그를 할 때 알림이 와도 온줄 몰라서 답장이 늦어 불편한 점이 있어서 제작
-  - 차후 보안할 점
+  - 차후 보완할 점
     - 인터페이스 개선
 
 ## Open Source Contribute
 
 ## Technical Skills
 
+### Language
+
+|  Lanuages  | 여기에 뭘 적어야 할까요 엉엉 |
+| :--------: | :--------------: |
+|     C#     |                  |
+|   Python   |                  |
+| Javascript |                  |
