@@ -24,6 +24,9 @@
 - [bumble](https://github.com/phillyai/bumble) `진행중`
   - 함수형 프로그래밍에 익숙하지 않은 사람들을 위해 디자인하게 된 함수형 프로그래밍 언어와 인터프리터
   - 개발 언어: `python3`
+- [스케쥴러 봇](https://github.com/phillyai/alarm-bot)
+  - 간단한 자연어를 처리하여 스케쥴을 등록하고 때가 되면 알려주는 봇
+  - 개발 언어: `python3`
 - [일일커밋 봇](https://github.com/phillyai/commit-twitter-bot)
   - 일일커밋 알림봇 9시 이후에도 커밋을 안했을시 SNS나 메신저를 통해 알림을 줌
   - 개발 언어: `python3`
