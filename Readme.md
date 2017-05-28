@@ -14,18 +14,21 @@
 
 ### Team Project
 
-- [Mola Mola](https://github.com/Big-BlueBerry/MolaMola) `진행중`
-  - 협업 메신저
-  - 역할: `elixir`을 이용한 비동기 서버 작성, 소스 병합
-  - 개발 언어: `elixir`, `C#`
+- [GCS](https://github.com/Big-BlueBerry/GCS) `진행중`
+  - Grid 기반 작도 시뮬레이터
+  - 역할: 메인 리딩 및 인터페이스 제작
+  - 개발 언어: `C#`
 
 ### Personal Project
 
+- [Context](https://github.com/phillyai/Context) `진행중`
+  - 자연어 처리 인터페이스 API
+  - 개발 언어와 사용된 프레임워크: `C#`, `한나눔`, `twitter-korean-text` 
 - [Grid](https://github.com/phillyai/Grid) `진행중`
   - XNA로 제작된 Component기반 게임엔진
   - 개발 언어: `C#`
 - [bumble](https://github.com/phillyai/bumble) `진행중`
-  - 함수형 프로그래밍에 익숙하지 않은 사람들을 위해 디자인하게 된 함수형 프로그래밍 언어와 인터프리터
+  - 간단한 함수형 프로그래밍 언어 설계와 인터프리터
   - 개발 언어: `python3`
 - [스케쥴러 봇](https://github.com/phillyai/alarm-bot)
   - 간단한 자연어를 처리하여 스케쥴을 등록하고 때가 되면 알려주는 봇
@@ -63,6 +66,12 @@
   - 개발 언어: `C#`
 - [네이버 알리미](https://github.com/phillyai/NaverAlarm)
   - 네이버 알림이 오면 데스크톱 알림으로 알려줌
+  - 개발 언어: `C#`
+- 뉴럴 시뮬레이터
+  - XNA로 제작된 간단한 신경망 시뮬레이터
+  - 개발 언어: `C#`
+- 태양계 시뮬레이터
+  - XNA로 제작된 행성 중력 시뮬레이터
   - 개발 언어: `C#`
 
 ## Open Source Contribute
