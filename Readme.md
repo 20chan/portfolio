@@ -36,7 +36,7 @@
 - [일일커밋 봇](https://github.com/phillyai/commit-twitter-bot)
   - 일일커밋 알림봇 9시 이후에도 커밋을 안했을시 SNS나 메신저를 통해 알림을 줌
   - 개발 언어: `python3`
-- [USBasKey](https://github.com/phillyai/USBasKey)
+- [USBLock](https://github.com/phillyai/USBLock)
   - USB를 암호로 사용하는 화면 보호기
   - 개발 언어: `C#`
 - [ChatBot](https://github.com/phillyai/ChatBot)
