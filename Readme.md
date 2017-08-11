@@ -9,6 +9,7 @@
 - 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
 - 트위터 : [@adnimpub_](https://twitter.com/adnimpub_)
 - Github : [phillyai](https://github.com/phillyai)
+- 블로그 : [phillyai](http://phillyai.github.io/)
 
 ## Projects
 
@@ -67,7 +68,7 @@
 - [네이버 알리미](https://github.com/phillyai/NaverAlarm)
   - 네이버 알림이 오면 데스크톱 알림으로 알려줌
   - 개발 언어: `C#`
-- 뉴럴 시뮬레이터
+- [뉴럴 시뮬레이터](https://github.com/phillyai/NeuralNetworkSimulator)
   - XNA로 제작된 간단한 신경망 시뮬레이터
   - 개발 언어: `C#`
 - 태양계 시뮬레이터
