@@ -7,7 +7,6 @@
 ## Contacts
 
 - 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
-- 트위터 : [@adnimpub_](https://twitter.com/adnimpub_)
 - Github : [phillyai](https://github.com/phillyai)
 - 블로그 : [phillyai](http://phillyai.github.io/)
 
