@@ -1,12 +1,31 @@
 # 이영찬
 
+## Introduction
+
+현재 대덕소프트웨어마이스터고등학교에 재학중인 2학년 학생입니다. 주력 언어로 C#을, 외에는 python3에 익숙하며 함수형 프로그래밍에 관심이 많은 힙스터 지망생입니다.
+
+세상에서 프로그래밍이 제일 좋지만 이거다 싶은 분야가 없어서 무엇을 좋아하는지 알기 위해 꾸준히 공부하고 개발하고 있습니다.
+
 ## Contacts
 
 - 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
 - Github : [phillyai](https://github.com/phillyai)
 - 블로그 : [phillyai](http://phillyai.github.io/)
 
+## Blog posts
+
+- [The Fun Of Reinvention](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
+    - python3.6 에서 메타프로그래밍을 활용하여 흑마법을 부리는 포스트
+
+- [C#의 튜플은 어디서부턴가 잘못되었다](https://phillyai.github.io/2017-08-22-Something-Wrong-In-Csharp-Tuple/)
+    - C# 컴파일러의 오류를 찾기 위한 여정
+
+
 ## Personal Projects
+
+> 짧은 기간 내에 끝났거나 오래된 프로젝트는 프로젝트 개발 시작 날짜만 표기하였습니다.
+
+> 깃헙에 올린 프로젝트들은 프로젝트 이름에 하이퍼링크가 삽입되어 있습니다.
 
 ### `2015-05-05` Update
 
