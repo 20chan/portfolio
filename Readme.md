@@ -217,11 +217,11 @@ HTTP/HTTPS 응답 테스트를 위해 개발한 프로그램. C#으로 개발
 
 리스트, 함수 등을 지원하는 스프레드시트 통계 프로그램. C#으로 개발
 
-### `2016-10-21` AdSlide
+### `2016-10-21` [UIEngine](https://github.com/phillyai/UIEngine)
 
 ![slide](/imgs/slide.png)
 
-전환, 애니메이션 등을 지원하는 슬라이드 쇼 프로그램. C#으로 개발
+전환, 애니메이션 등을 지원하는 슬라이드 쇼 프로그램을 위해 만든 GDI+로 작동하는 UI 라이브러리. C#으로 개발
 
 ### `2016-12-18` [아희/아귀](https://github.com/phillyai/Aheuiplusplus)
 
