@@ -9,7 +9,9 @@
 ## Contacts
 
 - 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
+- LinkedIn: [이영찬](https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9D%B4-3727b6121/)
 - Github : [phillyai](https://github.com/phillyai)
+- StackOverFlow : [phillyai](https://stackoverflow.com/users/5906697/phillyai)
 - 블로그 : [phillyai](http://phillyai.github.io/)
 
 ## Blog posts
@@ -20,7 +22,7 @@
 - [C#의 튜플은 어디서부턴가 잘못되었다](https://phillyai.github.io/2017-08-22-Something-Wrong-In-Csharp-Tuple/)
     - C# 컴파일러의 오류를 찾기 위한 여정
 
-- [2017년 회고](https://phillyai.github.io/2017-12-25-Look-Back-At-2017/)
+- [평범하지 않게 소수 찾기](https://phillyai.github.io/2018-05-02-Find-Primes/)
 
 
 ## Personal Projects
