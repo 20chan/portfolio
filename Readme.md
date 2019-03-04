@@ -12,7 +12,7 @@
 
 ## Contacts
 
-- 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
+- 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
 - LinkedIn: [이영찬](https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9D%B4-3727b6121/)
 - Github : [phillyai](https://github.com/phillyai)
 - StackOverFlow : [phillyai](https://stackoverflow.com/users/5906697/phillyai)
