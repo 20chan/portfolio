@@ -16,7 +16,7 @@
 
 ## Interested in
 
-### langs
+### lang
 
 - `C#`(especially in .net core)을 오랫동안 써왔으며 가장 익숙하며 다양한 디버깅, 최적화 및 디스어셈블링 기법을 사용할 수 있습니다.
 - `python3`를 스크립트 도구로 오랫동안 써왔습니다.
@@ -26,7 +26,7 @@
 - esolang 관련
   - 아희 ([1](https://github.com/phillyai/aheuIDA) [2](https://github.com/phillyai/Aheuiplusplus))
   - 혀엉.. ([1](https://github.com/phillyai/awesome-hyeong) [2](https://github.com/phillyai/hyeong-py))
-  - marbelous ([1](https://github.com/phillyai/marbelous-docs-korean) [2](https://gist.github.com/phillyai/2dc30936f71231a029f07eb3a981c052)
+  - marbelous ([1](https://github.com/phillyai/marbelous-docs-korean) [2](https://gist.github.com/phillyai/2dc30936f71231a029f07eb3a981c052))
 
 ### compiler
 
