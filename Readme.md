@@ -1,4 +1,4 @@
-# 이영찬 **20chan**
+# **이영찬** (20chan)
 
 ## Introduction
 
