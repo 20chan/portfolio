@@ -2,56 +2,59 @@
 
 ## Introduction
 
-2018년 기준 고등학교 3학년인 고등학생 개발자입니다. 주력 언어로 C#을, 외에는 python3에 익숙하며 함수형 프로그래밍에 관심이 많은 힙스터 지망생입니다. 재미주도개발을 지향합니다.
+2019년 5월 기준 [게임회사 5민랩](https://5minlab.com)에 다니고 있는 프로그래머입니다. 로직컬한 생각을 잘해 빠르게 배우고 응용해내는 것을 장점이라 생각합니다.
 
-2015년 유니티 게임을 디스어셈블리 하는 것으로 프로그래밍을 시작했으며 그 뒤로는 주로 WinForm을 사용해 데스크탑 어플리케이션을 개발하고 모노게임을 사용하여 게임 비스무리한 것을 만들었습니다. 최근에는 러스트를 사용하고 있습니다.
-
-어릴때부터 수학에도 관심이 많아 ToT 수상 경력이 있으며 KMO 공부를 했었습니다.
-
-현재 게임회사 5민랩에 취업했습니다.
+그때그때 관심있는 다양한 프로젝트들을 해보고 깃헙에 올립니다. 장래희망은 오픈소스 아이돌입니다.
 
 ## Contacts
 
 - 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
 - LinkedIn: [이영찬](https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9D%B4-3727b6121/)
-- Github : [phillyai](https://github.com/phillyai)
+- **Github** : [phillyai](https://github.com/phillyai)
 - StackOverFlow : [phillyai](https://stackoverflow.com/users/5906697/phillyai)
-- 블로그 : [phillyai](http://phillyai.github.io/)
+- **블로그** : [phillyai](https://blog.0chan.dev/)
 
-## Blog posts
+## Interested in
 
-- [The Fun Of Reinvention](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
-    - python3.6 에서 메타프로그래밍을 활용하여 흑마법을 부리는 포스트
+### langs
 
-- [C#의 튜플은 어디서부턴가 잘못되었다](https://phillyai.github.io/2017-08-22-Something-Wrong-In-Csharp-Tuple/)
-    - C# 컴파일러의 오류를 찾기 위한 여정
+- `C#`(especially in .net core)을 오랫동안 써왔으며 가장 익숙하며 다양한 디버깅, 최적화 및 디스어셈블링 기법을 사용할 수 있습니다.
+- `python3`를 스크립트 도구로 오랫동안 써왔습니다.
+- `c`, `rust`, `javascript` 를 어느정도 사용해보았습니다.
+- `haskell`을 핥아봤습니다.
+- 외에 `io`, `kotlin`, `ruby`, `racket`, `crystal` 에 관심이 있습니다.
+- esolang 관련
+  - 아희 ([1](https://github.com/phillyai/aheuIDA) [2](https://github.com/phillyai/Aheuiplusplus))
+  - 혀엉.. ([1](https://github.com/phillyai/awesome-hyeong) [2](https://github.com/phillyai/hyeong-py))
+  - marbelous ([1](https://github.com/phillyai/marbelous-docs-korean) [2](https://gist.github.com/phillyai/2dc30936f71231a029f07eb3a981c052)
 
-- [평범하지 않게 소수 찾기](https://phillyai.github.io/2018-05-02-Find-Primes/)
-    - Code obfuscating / Code Golfing 등의 흑마법을 사랑합니다
+### compiler
 
-## Interested in...
+많은 컴파일러 프로젝트 ([1](https://github.com/zoa-lang/zoa) [2](https://github.com/phillyai/slek) [3](https://github.com/phillyai/aheuIDA) [4](https://github.com/phillyai/shrew) [5](https://github.com/phillyai/claculator) [6](https://github.com/phillyai/bumble) [7](https://github.com/phillyai/Aheuiplusplus) [8](https://github.com/phillyai/Calculator) [9](https://github.com/phillyai/Raptor) 를 시도했고 렉서와 파싱 알고리즘 및 오토마타 공부를 하였으며 LLVM과 코드 최적화에 관심이 많습니다.
 
-### 컴파일러 / lang design / CS
+비쥬얼 프로그래밍 프로젝트 [Linking](https://github.com/phillyai/Linking-VPL)을 개발했습니다.
 
-프로그래밍 언어를 디자인하고 컴파일러를 구현하고 언어 문화를 만들어내는 대에 환상이 있습니다. 이를 현실로 만들기 위해 많은 시도를 했지만 근본이 없어서 중간에 포기를 했었고 이제는 제대로 준비를 해서 [zoa-lang](https://github.com/zoa-lang/zoa) 이라는 프로젝트를 준비하고 있습니다.
+roslyn 컴파일러에 기여를 했습니다. ([1](https://github.com/dotnet/roslyn/issues/23833) [2](https://github.com/dotnet/roslyn/issues/21656) [2-1](https://blog.0chan.dev/2017-08-22-Something-Wrong-In-Csharp-Tuple/))
 
-CS 공부를 개인적으로 했습니다. 온라인 컴파일러 강의를 전부 보았고 [컴파일러의 이해](http://www.hanbit.co.kr/store/books/look.php?p_code=B4565472056)를 완독했습니다.
-온라인 PL 강의를 보았고 [SICP](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=997205)를 4.4 챕터까지 공부했습니다.
-PS 공부는 [백준](https://www.acmicpc.net/user/phillyai)으로 하고 있고 앞으로 더 열심히 할 예정입니다.
+### game
 
-### Disassemly / Reversing
+모노게임(XNA)에 3년 경험이 있습니다. ([1](https://github.com/phillyai/Gridly) [2](https://github.com/Big-BlueBerry/GCS) [3](https://github.com/phillyai/NeuralNetworkSimulator) [4](https://github.com/phillyai/all-my-projects#2015-06-11-solarsystemsimulator))
 
-처음 프로그래밍을 시작한 계기도 디스어셈블링이었던 것도 있고 저수준에서의 동작 원리에도 관심이 많아 다양한 닷넷 디스어셈블리 경험이 있고, 런타임에서 JIT을 후킹해 원하는 대로 동작을 바꾸는 [CodeInjectionSharp](https://github.com/phillyai/CodeInjectionSharp) 이라는 공부용 프로젝트도 했었습니다. 
+유니티(>=2018)를 익숙하게 다룰 수 있고 언리얼엔진의 블루프린트를 사용한 AR게임 개발 경험이 있습니다.
 
-### Low Level / Kernel
+### crypto
 
-로우레벨에 대한 환상이 있고 윈도우 디바이스 드라이버 개발에 관심이 있습니다. 하제소프트의 유투브 강의를 다 봤으며 책도 사서 공부하다 지금은 회사일과 다른 프로젝트로 보류중이지만 기회가 된다면 다시 전념하고 싶습니다.
+국가암호공모전 암호풀이에서 입상하였습니다. ([2018 writeup](https://gist.github.com/phillyai/d15b147012b9f0fe4a538b407e788484)) 외에 다양한 ctf에서 암호풀이를 하였습니다. ([1](https://github.com/phillyai/xmas-ctf-2018-writeup))
 
-### languages / tools
+### NLP
 
-C#에 깊고 오랜 경험이 있는 닷넷 얼리어댑터입니다. WinForm, Monogame을 오랫동안 써왔습니다.  python3을 사용하여 간단한 프로그램을 여러개 개발했고 스크립트 언어 혹은 계산기로 애용합니다. Rust와 프레임워크 futures, tokio와 웹서버 프레임워크 등을  공부하고 있습니다. C, JS, Haskell, Common lisp, Elixir, WPF에 대한 얕은 경험이 있고 사용할 수 있습니다.
+[간단한 챗봇](https://github.com/Big-BlueBerry/redesigned-chatbot)을 구현해보았고 [문맥 처리 라이브러리](https://github.com/phillyai/Context)를 구상했습니다.
 
-C#으로 개발할 때는 Visual Studio를 사용했었고 많은 단축키와 디버깅 기법에 익숙합니다. Visual Studio Code를 출시 당시부터 써왔으며 GitLens 플러그인에 기여를 했습니다.
+### hacking
+
+- .net 단순 디스어셈블리부터 난독화 및 런타임 IL코드 추출 등에 익숙합니다.
+- 일반 바이너리 파일 리버싱은 털끝만큼의 경험이 있습니다.
+- 기본적인 웹해킹 지식이 있습니다. 대충 ctf 앞 세문제정도 풀 수 있을 것같은 자신감이 듭니다.
 
 ## Personal Projects
 
