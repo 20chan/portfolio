@@ -30,7 +30,7 @@
 
 ### compiler
 
-많은 컴파일러 프로젝트 ([1](https://github.com/zoa-lang/zoa) [2](https://github.com/phillyai/slek) [3](https://github.com/phillyai/aheuIDA) [4](https://github.com/phillyai/shrew) [5](https://github.com/phillyai/claculator) [6](https://github.com/phillyai/bumble) [7](https://github.com/phillyai/Aheuiplusplus) [8](https://github.com/phillyai/Calculator) [9](https://github.com/phillyai/Raptor) 를 시도했고 렉서와 파싱 알고리즘 및 오토마타 공부를 하였으며 LLVM과 코드 최적화에 관심이 많습니다.
+많은 컴파일러 프로젝트 ([1](https://github.com/zoa-lang/zoa) [2](https://github.com/phillyai/slek) [3](https://github.com/phillyai/aheuIDA) [4](https://github.com/phillyai/shrew) [5](https://github.com/phillyai/claculator) [6](https://github.com/phillyai/bumble) [7](https://github.com/phillyai/Aheuiplusplus) [8](https://github.com/phillyai/Calculator) [9](https://github.com/phillyai/Raptor)) 를 시도했고 렉서와 파싱 알고리즘 및 오토마타 공부를 하였으며 LLVM과 코드 최적화에 관심이 많습니다.
 
 비쥬얼 프로그래밍 프로젝트 [Linking](https://github.com/phillyai/Linking-VPL)을 개발했습니다.
 
