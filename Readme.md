@@ -77,6 +77,7 @@
 
 - .NET
   - `2019-06` [Fast A+B](https://gist.github.com/20chan/67fff1d3da8549d8540239c39f3f8bcd): 콘솔 io 버퍼링 관련 분석 및 해결책
+  - `2019-10` [cirno](https://github.com/20chan/cirno): 기하 라이브러리
 - python
   - `2017-01` [commit-twitter-bot](https://github.com/20chan/commit-twitter-bot): 1일커밋을 지키지 않으면 트위터로 알림을 보내주는 봇
   - `2017-07` [The Fun Of Reinvention](https://blog.0chan.dev/2017-07-02-The-Fun-Of-Reinvention/): python3.6 메타 프로그래밍 총정리 포스트
