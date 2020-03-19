@@ -2,7 +2,7 @@
 
 ## Introduction
 
-2020년 1월 기준 [게임회사 5민랩](https://5minlab.com)에 다니고 있는 프로그래머입니다.
+2018년 10월부터 2020년 3월 기준 [게임회사 5민랩](https://5minlab.com)에 다니고 있는 프로그래머입니다.
 
 2015년 5월부터 프로그래밍 한길만 파고 있습니다. 장래희망은 오픈소스 아이돌입니다.
 
@@ -46,6 +46,11 @@
 - `2017-05` [GCS](https://github.com/Big-BlueBerry/GCS): XNA 기반 인터랙티브 작도 시뮬레이션 프로그램
 - `2018-06` [Gridly](https://github.com/20chan/Gridly): XNA 기반 회로 퍼즐 게임
 
+#### Unity
+
+- `2019-11` [InspectorExtender](https://blog.0chan.dev/2019-11-10-InspectorExtender-ref-getter/): 유니티 inspector 확장 유틸리티 개발 로그
+- `2020-03` [UnitySniper](https://gist.github.com/20chan/1199b5100c96fc146d6aff8f454bba5a): 유니티 에디터 런타임에서 동적 C# 스크립트 실행 툴
+
 ### Compiler
 
 - Visual Programming
@@ -68,7 +73,7 @@
   - `2019-12` [cigar](https://github.com/20chan/cigar): 롤링페이퍼 프론트엔드 / 서버
 - As Server Admin
   - nginx, ssl with letsencrypt
-  - own domains:
+  - owned domains:
     - `0chan.dev`
     - `20c6a7.dev`
     - `pgom.me`
