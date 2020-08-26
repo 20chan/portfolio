@@ -25,6 +25,7 @@
 - `2017-09` [AssemblySharp](https://github.com/20chan/AssemblySharp): 어셈블리 코드를 신태틱 슈거를 통해 런타임에 컴파일하고 실행
 - `2019-04` [CoreCLRCustomJIT](https://github.com/20chan/CoreCLRCustomJIT): .NET Core 런타임 JIT 컴파일러를 후킹하여 런타임에 IL단위 코드 패치
 - `2019-11` [Unity ref return](https://blog.0chan.dev/2019-11-10-InspectorExtender-ref-getter/): 유니티 인스펙터 확장에 `ref` 신택스를 적용시킨 포스트
+- `2020-04` [hijacs](https://github.com/20chan/hijacs): .NET Core 런타임 메서드 바꿔치기
 
 ### Windows API / Utilities
 
@@ -71,12 +72,23 @@
   - `2019-07` zab (priv): 세션 구현
   - `2019-07` mustard (priv): 방명록 웹 프론트엔드 / 서버
   - `2019-12` [cigar](https://github.com/20chan/cigar): 롤링페이퍼 프론트엔드 / 서버
+  - `2020-01` [lp](https://github.com/20chan/lp): 풀스택 블로그 플랫폼
+  - `2020-05` [kahan](https://github.com/20chan/kahan): Blazor SignalR을 사용한 원격 음악 플레이어 조작 대쉬보드
+  - `2020-05` [aka](https://github.com/20chan/aka): url shortner
 - As Server Admin
-  - nginx, ssl with letsencrypt
+  - nginx, caddy, ssl with letsencrypt
+  - [mail service](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
+  - jupyter lab, grafana, code-server
   - owned domains:
     - `0chan.dev`
     - `20c6a7.dev`
     - `pgom.me`
+    - 2 more
+
+### More-Server
+
+- `2020-06` [note](https://github.com/20chan/note): typescript, express, react, caddy, mongodb, docker-compose 기반 노트 서비스
+- `2020-08` home (priv): 로그인, 헬스체크를 지원하는 풀스택 서비스 대쉬보드, 기술 스택은 위와 동일
 
 ### Software Engineering
 
@@ -86,6 +98,7 @@
 - python
   - `2017-01` [commit-twitter-bot](https://github.com/20chan/commit-twitter-bot): 1일커밋을 지키지 않으면 트위터로 알림을 보내주는 봇
   - `2017-07` [The Fun Of Reinvention](https://blog.0chan.dev/2017-07-02-The-Fun-Of-Reinvention/): python3.6 메타 프로그래밍 총정리 포스트
+  - `2020-01` [aheuithon](https://github.com/20chan/aheuithon): 파이썬 아희 커스텀 코덱
 - rust
   - `2018-10` [calc-repl-rs](https://github.com/20chan/calc-repl-rs): 계산기 repl
   - `2018-10` [tic-tac-toe-rs](https://github.com/20chan/tic-tac-toe-rs): 틱택토
@@ -101,6 +114,12 @@
 - `2016-12` [ChristmasTree](https://github.com/20chan/ChristmasTree): 눈내리는 크리스마스 트리
 - `2017-06` [img2term](https://github.com/20chan/img2term): 이미지를 ansi code로 변환하여 터미널에서 출력
 - `2019-08` [surface-arch](https://github.com/20chan/surface-arch/issues): 서피스북2에 아치 리눅스를 설치하고 설정하는 삽질로그
+- `2020-05` [surface-arch](https://blog.0chan.dev/2020-03-21-Arch-On-SB2-1/): 서피스북2에 아치 리눅스를 다시 설치하고 설정하는 더 자세한 삽질로그
+
+### Web Extension
+
+- `2020-01` [clickup-assign-me](https://github.com/20chan/clickup-assign-me): 클릭업에 `assign me` 버튼을 추가해주는 웹 확장 프로그램
+- `2020-07` [github-now](https://github.com/20chan/github-now): 현재 듣고 있는 노래를 깃헙 프로필에 실시간으로 띄워주는 웹 확장 프로그램
 
 ### Obfuscation / Esolang
 
@@ -119,6 +138,7 @@
 - `2018-05` [TrulyInnovativeVersionControl](https://github.com/20chan/TrulyInnovativeVersionControl): git보다 좋은 버젼 컨트롤
 - `2018-05` [NoFWords](https://github.com/20chan/NoFWords): 음성인식으로 욕하면 욕하지 말라고 알림을 보냄
 - `2018-08` [척추의 요정](https://github.com/20chan/NeckAngel): 정기적으로 허리펴라고 알림을 보냄
+- `2020-08` [SansTyping](https://github.com/20chan/SansTyping): 글로벌 키보드 후킹을 통해 타이핑을 할 때 마다 사운드 이펙트를 내주는 윈도우 프로그램
 
 ### Else
 
@@ -128,6 +148,7 @@
 - `2018-08` [TwitterStreaming](https://github.com/20chan/TwitterStreaming): 프록시와 패킷 스니핑을 이용해 구현한 트위터 스트리밍
 - `2018-09` [Kwitter](https://github.com/20chan/Kwitter): 유투브/트위치 채팅 스트리밍 인터페이스같은 트위터 클라이언트
 - `2019-04` [λ-FizzBuzz](https://github.com/20chan/FizzBuzzInPureLambdaCalculus): 완전 순수 람다 대수로 구현한 FizzBuzz
+- `2020-05` [calimolite](https://github.com/20chan/calimolite): 자체 알고리즘으로 학습된 영단어 기반 새로운 영단어 생성
 
 ## Work Experiences
 
