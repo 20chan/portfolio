@@ -46,6 +46,10 @@
 - `2015-12` [NeuralNetworkSimulator](https://github.com/20chan/NeuralNetworkSimulator): XNA기반 뉴런, 시냅스, 가중치등으로 전기 신호 시각화 시뮬레이터
 - `2017-05` [GCS](https://github.com/Big-BlueBerry/GCS): XNA 기반 인터랙티브 작도 시뮬레이션 프로그램
 - `2018-06` [Gridly](https://github.com/20chan/Gridly): XNA 기반 회로 퍼즐 게임
+- `2019-11` [mapgen](https://youtu.be/e8-JLEsHrrg): procedural world generation
+- `2020-06` [unity mesh 9-slicing](https://youtu.be/PgSg7U1UVt0): Procedural 3d mesh 9-slicing
+- `2020-06` [3dcamera](https://youtu.be/RTmpTyq5qwk): Procedural 3D magic camera
+- `2020-06` [spider](https://youtu.be/KcTFCb4MYHg): Procedural leg IK based spider
 
 #### Unity
 
@@ -115,6 +119,7 @@
 - `2017-06` [img2term](https://github.com/20chan/img2term): 이미지를 ansi code로 변환하여 터미널에서 출력
 - `2019-08` [surface-arch](https://github.com/20chan/surface-arch/issues): 서피스북2에 아치 리눅스를 설치하고 설정하는 삽질로그
 - `2020-05` [surface-arch](https://blog.0chan.dev/2020-03-21-Arch-On-SB2-1/): 서피스북2에 아치 리눅스를 다시 설치하고 설정하는 더 자세한 삽질로그
+- `2020-08` [pre-commit](https://gist.github.com/20chan/4e91dabcd319df14bff40ca2a42caa19): git 유니티에서 빈 폴더의 meta파일을 unstage시키는 pre-commit 훅
 
 ### Web Extension
 
