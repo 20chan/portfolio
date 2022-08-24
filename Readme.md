@@ -2,17 +2,14 @@
 
 ## Introduction
 
-2018년 10월부터 2020년 8월 기준 [게임회사 5민랩](https://5minlab.com)에 다니고 있는 프로그래머입니다.
-
-2015년 5월부터 프로그래밍 한길만 파고 있습니다. 장래희망은 오픈소스 아이돌입니다.
+재미로 개발하는 엔지니어입니다. 하고싶은건 어떻게든 해냅니다. 장래희망은 오픈소스 아이돌입니다.
 
 ## Contacts
 
-- 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
-- LinkedIn: [이영찬](https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9D%B4-3727b6121/)
 - **Github** : [20chan](https://github.com/20chan)
-- StackOverFlow : [20chan](https://stackoverflow.com/users/5906697/20chan)
 - **블로그** : [20chan](https://blog.0chan.dev/)
+- 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
+- StackOverFlow : [20chan](https://stackoverflow.com/users/5906697/20chan)
 
 ## Personal Experiences
 
@@ -23,14 +20,14 @@
 - `2017-08` [c# tuple internal](https://blog.0chan.dev/2017-08-22-Something-Wrong-In-Csharp-Tuple/): roslyn 컴파일러 오류에 대한 분석 포스트
 - `2017-09` [expression(gist)](https://gist.github.com/20chan/d1e95529a4d39e836ea38cc8e0d29f9d): 머신코드를 런타임에 실행
 - `2017-09` [AssemblySharp](https://github.com/20chan/AssemblySharp): 어셈블리 코드를 신태틱 슈거를 통해 런타임에 컴파일하고 실행
-- `2019-04` [CoreCLRCustomJIT](https://github.com/20chan/CoreCLRCustomJIT): .NET Core 런타임 JIT 컴파일러를 후킹하여 런타임에 IL단위 코드 패치
-- `2019-11` [Unity ref return](https://blog.0chan.dev/2019-11-10-InspectorExtender-ref-getter/): 유니티 인스펙터 확장에 `ref` 신택스를 적용시킨 포스트
+- `2019-11` [Unity ref return](https://blog.0chan.dev/2019-11-10-InspectorExtender-ref-getter/): 유니티 인스펙터 확장에 `ref` 프로퍼티를 적용시킨 포스트
 - `2020-04` [hijacs](https://github.com/20chan/hijacs): .NET Core 런타임 메서드 바꿔치기
+- `2022-03` [flexil](https://blog.0chan.dev/2022-03-06-Dot-Net-Core-Custom-JIT/): .net core 커스텀 JIT 컴파일러 만들기
 
 ### Windows API / Utilities
 
 - `2015-05` [RAT](https://github.com/20chan/all-my-projects#2015-05-28-rat): 키보드 후킹과 1:N 소켓 통신으로 구현한 키보드 로그 서버/클라이언트 프로그램
-- `2015-10` [CaptIt](https://github.com/20chan/CaptIt): 네이버 소프트웨어에 등록한 단축키와 후처리를 지원하는 캡쳐 프로그램
+- `2015-10` [CaptIt](https://github.com/20chan/CaptIt): 네이버 소프트웨어에 등록해 오랫동안 서비스/유지했던 단축키와 후처리를 지원하는 캡쳐 프로그램
 - `2015-12` [GetRGB](https://github.com/20chan/OldProjects/tree/master/GetRGB): 마우스 커서에 위치한 화면 픽셀의 색상 정보를 표시하는 프로그램
 - `2016-01` [PhillMacro](https://github.com/20chan/PhillMacro): WinForm 기반 트리거와 액션을 지정가능한 키보드/마우스 후킹 매크로 프로그램
 - `2016-03` [WindowMover](https://github.com/20chan/WindowMover): 키보드 후킹과 WinAPI로 윈도우 단축키로 윈도우 창 조작
@@ -38,6 +35,7 @@
 - `2016-08` [USBLock](https://github.com/20chan/USBLock): USB를 키로 사용하는 화면보호기 프로그램
 - `2017-01` [Wallpaper](https://github.com/20chan/Wallpaper): 윈도우 데스크탑 아이콘과 배경 사이에 윈도우 창을 넣는 구현체
 - `2017-07` [HackingVillian](https://github.com/20chan/HackingVillain): 소켓기반 화면, 프로세스, 키보드 등의 관리와 메세지/파일 전송 등의 컴퓨터 관리 솔루션
+- `2020-12` [no-bad-types](https://github.com/20chan/no-bad-types): 키보드 후킹으로 비속어 감지 후 입력된 텍스트 검열
 
 ### Game
 
@@ -50,6 +48,7 @@
 - `2020-06` [unity mesh 9-slicing](https://youtu.be/PgSg7U1UVt0): Procedural 3d mesh 9-slicing
 - `2020-06` [3dcamera](https://youtu.be/RTmpTyq5qwk): Procedural 3D magic camera
 - `2020-06` [spider](https://youtu.be/KcTFCb4MYHg): Procedural leg IK based spider
+- `2021-08` [WinAPI, Except It's a Unity](https://blog.0chan.dev/2021-11-05-WinAPI-Except-Its-Unity/): 유니티에서 WinAPI, external rendering 등을 적용한 메타 게임 만들기
 
 #### Unity
 
@@ -60,7 +59,7 @@
 
 - Visual Programming
   - `2016-06` [Blocky](https://github.com/20chan/Blocky): WinForm 기반 최소한의 인터페이스로 작동하는 VPL
-  - `2016-12` [Linking](https://github.com/20chan/Linking-VPL): 또다른 VPL
+  - `2016-12` [Linking](https://github.com/20chan/Linking-VPL): yet another VPL
 - `2017-03` [bumble](https://github.com/20chan/bumble): 인터프리터 언어와 python 구현체
 - `2017-08` [claculator](https://github.com/20chan/claculator): python으로 구현된 계산기 컴파일러와 C 구현체인 VM
 - `2018-08` [shrew](https://github.com/20chan/shrew): 패턴 기반 인터프리터 언어
@@ -71,23 +70,19 @@
 - `2018-09` [SimpleWebServer](https://github.com/20chan/SimpleWebServer): HttpListener 기반 어트리뷰트-리플렉션 인터페이스를 사용한 웹서버 라이브러리
 - `2019-06` [CreamRoll](https://github.com/20chan/CreamRoll): DSL을 지원하는 바닥부터 구현된 서버 라이브러리
 - CreamRoll 사용
-  - `2019-06` counter-server (priv): 웹 인터페이스를 가지는 카운터 서버
   - `2019-06` [custard](https://github.com/20chan/custard): 데이터 버젼관리 서버
-  - `2019-07` zab (priv): 세션 구현
-  - `2019-07` mustard (priv): 방명록 웹 프론트엔드 / 서버
   - `2019-12` [cigar](https://github.com/20chan/cigar): 롤링페이퍼 프론트엔드 / 서버
   - `2020-01` [lp](https://github.com/20chan/lp): 풀스택 블로그 플랫폼
   - `2020-05` [kahan](https://github.com/20chan/kahan): Blazor SignalR을 사용한 원격 음악 플레이어 조작 대쉬보드
   - `2020-05` [aka](https://github.com/20chan/aka): url shortner
+- `2022-05` _embargo_: next.js + typescript의 clickhouse db 기반 게임 통계 사이트
 - As Server Admin
-  - nginx, caddy, ssl with letsencrypt
   - [mail service](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
-  - jupyter lab, grafana, code-server
-  - owned domains:
+  - r/homelab server
+  - aws
+  - owned serveral domains:
     - `0chan.dev`
-    - `20c6a7.dev`
-    - `pgom.me`
-    - 2 more
+    - ..more
 
 ### More-Server
 
@@ -97,6 +92,7 @@
 ### Software Engineering
 
 - .NET
+  - `2015-??` unity web game mod: .NET Reflector + reflexil 로 유니티 게임 디스어셈블링 이후 각종 모드 제작
   - `2019-06` [Fast A+B](https://gist.github.com/20chan/67fff1d3da8549d8540239c39f3f8bcd): 콘솔 io 버퍼링 관련 분석 및 해결책
   - `2019-10` [cirno](https://github.com/20chan/cirno): 기하 라이브러리
 - python
@@ -154,10 +150,17 @@
 - `2018-09` [Kwitter](https://github.com/20chan/Kwitter): 유투브/트위치 채팅 스트리밍 인터페이스같은 트위터 클라이언트
 - `2019-04` [λ-FizzBuzz](https://github.com/20chan/FizzBuzzInPureLambdaCalculus): 완전 순수 람다 대수로 구현한 FizzBuzz
 - `2020-05` [calimolite](https://github.com/20chan/calimolite): 자체 알고리즘으로 학습된 영단어 기반 새로운 영단어 생성
+- `2021-09` [bard](https://github.com/20chan/bard): 디스코드 음악 재생 봇
 
 ## Work Experiences
 
-게임 프로그래머로 일하고 있는데 자세한 경험을 여기에 적어도 되는지 모르겠다.
-다음에 언젠가 정리하는 걸로
-
-외주로 웹 크롤링/자동화 등을 많이 해봤는데 이상한 내용이 많아서 이것도 패스
+- `2018-10 ~` [5minlab](https://5minlab.com) 게임회사 오민랩 재직중
+  - 2인 팀에서 2~3일에 게임 하나씩 출시하는 프로젝트, 20여개 출시 성공
+    - hypercasual game design, marketing optimization lessons
+  - `2021-?? ~` 게임 서버와 각종 인프라 팀, 여러 기술 지원
+    - lambda + node + typescript + etc
+    - terraform/terragrunt + sqs, dynamodb, gamelift, batch, dns, api gateway, s3, firehose 등의 인프라
+  - etc
+    - metabase로 필요한 통계를 뽑는 sql 쿼리 작성
+    - unity standalone game ps4 porting
+    - more unity technical stuffs
