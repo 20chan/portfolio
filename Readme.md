@@ -154,13 +154,4 @@
 
 ## Work Experiences
 
-- `2018-10 ~` [5minlab](https://5minlab.com) 게임회사 오민랩 재직중
-  - 2인 팀에서 2~3일에 게임 하나씩 출시하는 프로젝트, 20여개 출시 성공
-    - hypercasual game design, marketing optimization lessons
-  - `2021-?? ~` 게임 서버와 각종 인프라 팀, 여러 기술 지원
-    - lambda + node + typescript + etc
-    - terraform/terragrunt + sqs, dynamodb, gamelift, batch, dns, api gateway, s3, firehose 등의 인프라
-  - etc
-    - metabase로 필요한 통계를 뽑는 sql 쿼리 작성
-    - unity standalone game ps4 porting
-    - more unity technical stuffs
+- `2018-10 ~` 게임회사 재직
