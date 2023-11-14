@@ -2,18 +2,20 @@
 
 ## Introduction
 
-재미로 개발하는 엔지니어입니다. 하고싶은건 어떻게든 해냅니다. 장래희망은 오픈소스 아이돌입니다.
+뭐든 만들고 배우는 것을 좋아하는 엔지니어입니다. 하고싶은건 어떻게든 해냅니다. 장래희망은 오픈소스 아이돌입니다.
+
+현 포트폴리오 페이지는 모든 개인 프로젝트 리스트업에 집중합니다. 저에 대한 자세한 내용은 아래 레주메를 참고해주세요.
 
 ## Contacts
 
 - **Github** : [20chan](https://github.com/20chan)
 - **블로그** : [20chan](https://blog.0chan.dev/)
 - 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
-- StackOverFlow : [20chan](https://stackoverflow.com/users/5906697/20chan)
+- **RESUME** : [20chan](https://0chan.dev/resume)
 
 ## Personal Experiences
 
-### .NET Internal
+#### .NET Internal
 
 - `2015-07` [Anti-Anti-Reflector](https://github.com/20chan/OldProjects/tree/master/Anti-Anti-.Net%20Reflector): PE 헤더 파일 변조를 통한 .NET 디컴파일 방지/해제
 - `2015-09` [RoyCompiler](https://github.com/20chan/OldProjects/tree/master/RoyCompiler): C# 내장 컴파일러와 텍스트 에디터를 사용한 가벼운 C# 편집/컴파일 툴
@@ -24,7 +26,7 @@
 - `2020-04` [hijacs](https://github.com/20chan/hijacs): .NET Core 런타임 메서드 바꿔치기
 - `2022-03` [flexil](https://blog.0chan.dev/2022-03-06-Dot-Net-Core-Custom-JIT/): .net core 커스텀 JIT 컴파일러 만들기
 
-### Windows API / Utilities
+#### Windows API / Utilities
 
 - `2015-05` [RAT](https://github.com/20chan/all-my-projects#2015-05-28-rat): 키보드 후킹과 1:N 소켓 통신으로 구현한 키보드 로그 서버/클라이언트 프로그램
 - `2015-10` [CaptIt](https://github.com/20chan/CaptIt): 네이버 소프트웨어에 등록해 오랫동안 서비스/유지했던 단축키와 후처리를 지원하는 캡쳐 프로그램
@@ -37,7 +39,7 @@
 - `2017-07` [HackingVillian](https://github.com/20chan/HackingVillain): 소켓기반 화면, 프로세스, 키보드 등의 관리와 메세지/파일 전송 등의 컴퓨터 관리 솔루션
 - `2020-12` [no-bad-types](https://github.com/20chan/no-bad-types): 키보드 후킹으로 비속어 감지 후 입력된 텍스트 검열
 
-### Game
+#### Game
 
 - `2015-06` [SolarSystemSimulator](https://github.com/20chan/all-my-projects#2015-06-11-solarsystemsimulator): XNA에서 파티클 시스템과 물리엔진을 구현하여 만든 태양계 시뮬레이터
 - `2015-10` [2048](https://github.com/20chan/OldProjects/tree/master/2048): WinForm 기반 2048 게임
@@ -50,12 +52,12 @@
 - `2020-06` [spider](https://youtu.be/KcTFCb4MYHg): Procedural leg IK based spider
 - `2021-08` [WinAPI, Except It's a Unity](https://blog.0chan.dev/2021-11-05-WinAPI-Except-Its-Unity/): 유니티에서 WinAPI, external rendering 등을 적용한 메타 게임 만들기
 
-#### Unity
+##### Unity
 
 - `2019-11` [InspectorExtender](https://blog.0chan.dev/2019-11-10-InspectorExtender-ref-getter/): 유니티 inspector 확장 유틸리티 개발 로그
 - `2020-03` [UnitySniper](https://gist.github.com/20chan/1199b5100c96fc146d6aff8f454bba5a): 유니티 에디터 런타임에서 동적 C# 스크립트 실행 툴
 
-### Compiler
+#### Compiler
 
 - Visual Programming
   - `2016-06` [Blocky](https://github.com/20chan/Blocky): WinForm 기반 최소한의 인터페이스로 작동하는 VPL
@@ -65,7 +67,7 @@
 - `2018-08` [shrew](https://github.com/20chan/shrew): 패턴 기반 인터프리터 언어
 - roslyn contributes: [#23833](https://github.com/dotnet/roslyn/issues/23833) [#39602](https://github.com/dotnet/roslyn/issues/39602)
 
-### Server
+#### Server
 
 - `2018-09` [SimpleWebServer](https://github.com/20chan/SimpleWebServer): HttpListener 기반 어트리뷰트-리플렉션 인터페이스를 사용한 웹서버 라이브러리
 - `2019-06` [CreamRoll](https://github.com/20chan/CreamRoll): DSL을 지원하는 바닥부터 구현된 서버 라이브러리
@@ -75,21 +77,21 @@
   - `2020-01` [lp](https://github.com/20chan/lp): 풀스택 블로그 플랫폼
   - `2020-05` [kahan](https://github.com/20chan/kahan): Blazor SignalR을 사용한 원격 음악 플레이어 조작 대쉬보드
   - `2020-05` [aka](https://github.com/20chan/aka): url shortner
-- `2022-05` _embargo_: next.js + typescript의 clickhouse db 기반 게임 통계 사이트
-- As Server Admin
-  - [mail service](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
-  - r/homelab server
-  - aws
-  - owned serveral domains:
-    - `0chan.dev`
-    - ..more
 
-### More-Server
+#### Web/Server
 
 - `2020-06` [note](https://github.com/20chan/note): typescript, express, react, caddy, mongodb, docker-compose 기반 노트 서비스
 - `2020-08` home (priv): 로그인, 헬스체크를 지원하는 풀스택 서비스 대쉬보드, 기술 스택은 위와 동일
+- `2022-05` [slgg](https://archive.smashlegends.gg/): ts, next.js app routing 기반 clickhouse db 기반 게임 통계 사이트
+- `2023-10` [retsuko](https://github.com/20chan/retsuko): nextjs, 간단한 주식/가상화폐 모의투자 시뮬레이션 툴
+- `2023-11` [jen2](https://github.com/20chan/jen2): nextjs v13 app routing 기반 자동화된 개인용 가계부 서비스
 
-### Software Engineering
+#### DevOps
+- `2016-02` [Vultr VPS](https://www.vultr.com/): 윈도우 서버 VPS에서 당시 개발한 .NET 서버 호스팅
+- `2020-06` [메일 서비스 구축](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/): aws lightsail에서 독자적 풀스택 메일 서비스 구축
+- `2021-03` 홈서버 구축: 다양한 서비스 호스팅 및 cloudflare dns + nginx/grafana/docker-compose 등의 인프라 구축
+
+#### Software Engineering
 
 - .NET
   - `2015-??` unity web game mod: .NET Reflector + reflexil 로 유니티 게임 디스어셈블링 이후 각종 모드 제작
@@ -97,7 +99,7 @@
   - `2019-10` [cirno](https://github.com/20chan/cirno): 기하 라이브러리
 - python
   - `2017-01` [commit-twitter-bot](https://github.com/20chan/commit-twitter-bot): 1일커밋을 지키지 않으면 트위터로 알림을 보내주는 봇
-  - `2017-07` [The Fun Of Reinvention](https://blog.0chan.dev/2017-07-02-The-Fun-Of-Reinvention/): python3.6 메타 프로그래밍 총정리 포스트
+  - `2017-07` [The Fun Of Reinvention](https://blog.0chan.dev/2017-07-02-The-Fun-Of-Reinvention/): python3.6 메타 프로그래밍 정리 포스트
   - `2020-01` [aheuithon](https://github.com/20chan/aheuithon): 파이썬 아희 커스텀 코덱
 - rust
   - `2018-10` [calc-repl-rs](https://github.com/20chan/calc-repl-rs): 계산기 repl
@@ -109,7 +111,7 @@
   - `2016-09` [Excelly](https://github.com/20chan/Excelly): 외부 리스트, 함수 등 연산을 지원하는 스프레드시트 통계 프로그램
   - `2016-10` [AdSlide](https://github.com/20chan/UIEngine): 씬 전환, 애니메이션 등을 지원하는 슬라이드 쇼 프로그램
 
-### Linux / CLI
+#### Linux / CLI
 
 - `2016-12` [ChristmasTree](https://github.com/20chan/ChristmasTree): 눈내리는 크리스마스 트리
 - `2017-06` [img2term](https://github.com/20chan/img2term): 이미지를 ansi code로 변환하여 터미널에서 출력
@@ -117,12 +119,12 @@
 - `2020-05` [surface-arch](https://blog.0chan.dev/2020-03-21-Arch-On-SB2-1/): 서피스북2에 아치 리눅스를 다시 설치하고 설정하는 더 자세한 삽질로그
 - `2020-08` [pre-commit](https://gist.github.com/20chan/4e91dabcd319df14bff40ca2a42caa19): git 유니티에서 빈 폴더의 meta파일을 unstage시키는 pre-commit 훅
 
-### Web Extension
+#### Web Extension
 
 - `2020-01` [clickup-assign-me](https://github.com/20chan/clickup-assign-me): 클릭업에 `assign me` 버튼을 추가해주는 웹 확장 프로그램
 - `2020-07` [github-now](https://github.com/20chan/github-now): 현재 듣고 있는 노래를 깃헙 프로필에 실시간으로 띄워주는 웹 확장 프로그램
 
-### Obfuscation / Esolang
+#### Obfuscation / Esolang
 
 - 난독화
   - `2018-08` [Ascii Fluids Deobfuscation](https://blog.0chan.dev/2018-08-06-IOCCC-Fluid-Dynamics/): 유명한 IOCCC Fluids 프로그램 분석 포스트
@@ -133,7 +135,7 @@
   - `2018-02` [spec-docs-ko](https://github.com/20chan/marbelous-docs-korean): marbelous 스펙 문서 번역
   - `2018-05` [prime.mbl](https://gist.github.com/20chan/2dc30936f71231a029f07eb3a981c052): marbelous로 작성한 소수 판정 프로그램
 
-### Meme
+#### Meme
 
 - `2017-12` [영찬웨어](https://github.com/20chan/YeongChanWare): 문제를 풀어야 꺼지는 화면보호기
 - `2018-05` [TrulyInnovativeVersionControl](https://github.com/20chan/TrulyInnovativeVersionControl): git보다 좋은 버젼 컨트롤
@@ -141,7 +143,7 @@
 - `2018-08` [척추의 요정](https://github.com/20chan/NeckAngel): 정기적으로 허리펴라고 알림을 보냄
 - `2020-08` [SansTyping](https://github.com/20chan/SansTyping): 글로벌 키보드 후킹을 통해 타이핑을 할 때 마다 사운드 이펙트를 내주는 윈도우 프로그램
 
-### Else
+#### Else
 
 - `2016-06` [ChatBot](https://github.com/20chan/ChatBot): 간단한 챗봇 알고리즘과 구현체
 - `2017-12` [redesigned-chatbot](https://github.com/Big-BlueBerry/redesigned-chatbot): 위 챗봇을 페어 프로그래밍으로 리팩토링
@@ -151,7 +153,9 @@
 - `2019-04` [λ-FizzBuzz](https://github.com/20chan/FizzBuzzInPureLambdaCalculus): 완전 순수 람다 대수로 구현한 FizzBuzz
 - `2020-05` [calimolite](https://github.com/20chan/calimolite): 자체 알고리즘으로 학습된 영단어 기반 새로운 영단어 생성
 - `2021-09` [bard](https://github.com/20chan/bard): 디스코드 음악 재생 봇
+- `2023-10` [minecraft-dynmap-exporter](https://github.com/20chan/minecraft-dynmap-exporter): 마인크래프트 RCON 통신으로 플러그인 지표의 premetheus exporter
+- `2023-10` [minecraft-stats-discord-bot](https://github.com/20chan/minecraft-stats-discord-bot): 마인크래프트 서버의 플레이어 통계를 디스코드 봇으로 보여주는 서비스
 
 ## Work Experiences
 
-- `2018-10 ~` 게임회사 재직
+- `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 서버 프로그래머로써 재직
