@@ -81,7 +81,7 @@
 #### Web/Server
 
 - `2020-06` [note](https://github.com/20chan/note): typescript, express, react, caddy, mongodb, docker-compose 기반 노트 서비스
-- `2020-08` home (priv): 로그인, 헬스체크를 지원하는 풀스택 서비스 대쉬보드, 기술 스택은 위와 동일
+- `2020-08` [home](https://user-images.githubusercontent.com/16171816/282698146-7236a8b8-9bda-42e1-909a-db6de4e90415.png): 로그인이 필요한 개인용 서비스 헬스체크 대시보드
 - `2022-05` [slgg](https://archive.smashlegends.gg/): ts, next.js app routing 기반 clickhouse db 기반 게임 통계 사이트
 - `2023-10` [retsuko](https://github.com/20chan/retsuko): nextjs, 간단한 주식/가상화폐 모의투자 시뮬레이션 툴
 - `2023-11` [jen2](https://github.com/20chan/jen2): nextjs v13 app routing 기반 자동화된 개인용 가계부 서비스
