@@ -162,4 +162,4 @@
 
 ## Work Experiences
 
-- `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 서버 프로그래머로써 재직
+- `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 백엔드 엔지니어로써 재직
