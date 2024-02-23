@@ -85,10 +85,14 @@
 - `2020-08` [home](https://user-images.githubusercontent.com/16171816/282698146-7236a8b8-9bda-42e1-909a-db6de4e90415.png): 로그인이 필요한 개인용 서비스 헬스체크 대시보드
 - `2021-03` [valg](https://github.com/20chan/valg): 간단한 발하임 서버 관리툴
 - `2021-03` [nalclip](https://github.com/20chan/nalclip): 윈도우 클립보드 히스토리 관리 서비스의 웹서버
-- `2021-04` [utils](https://github.com/20chan/utils): 여러 encoder, decoder, hash 등의 변환 툴
+- `2021-04` [_utils](https://github.com/20chan/_utils): 여러 encoder, decoder, hash 등의 변환 툴
 - `2022-05` [slgg](https://archive.smashlegends.gg/): ts, next.js app routing 기반 clickhouse db 기반 게임 통계 사이트
 - `2023-10` [retsuko](https://github.com/20chan/retsuko): nextjs, 간단한 주식/가상화폐 모의투자 시뮬레이션 툴
 - `2023-11` [jen2](https://github.com/20chan/jen2): nextjs v13 app routing 기반 자동화된 개인용 가계부 서비스
+- `2024-01` [kikuri](https://github.com/20chan/kikuri): nextjs v13에서 웹소켓 기반 stateless 웹 보드게임
+- `2024-01` [0ch.me](https://0ch.me): nextjs, hit counter와 음악 스트리밍 등이 구현된 홈페이지
+- `2024-01` [utils](https://github.com/20chan/utils): carvekit 이미지 배경 제거 툴 및 여러 웹 유틸
+- `2024-02` [radiota.pe](https://radiota.pe): 현재 재생중인 음악, 치지직 채팅 오버레이
 
 #### DevOps
 - `2016-02` [Vultr VPS](https://www.vultr.com/): 윈도우 서버 VPS에서 당시 개발한 .NET 서버 호스팅
