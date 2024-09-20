@@ -93,6 +93,8 @@
 - `2024-01` [0ch.me](https://0ch.me): nextjs, hit counter와 음악 스트리밍 등이 구현된 홈페이지
 - `2024-01` [utils](https://github.com/20chan/utils): carvekit 이미지 배경 제거 툴 및 여러 웹 유틸
 - `2024-02` [radiota.pe](https://radiota.pe): 현재 재생중인 음악, 치지직 채팅 오버레이
+- `2024-04` [place](https://github.com/20chan/place): 실시간 픽셀아트 플랫폼 r/place clone
+- `2024-09` [legeno.gg](https://legeno.gg): 게임 특화 토너먼트 플랫폼
 
 #### DevOps
 - `2016-02` [Vultr VPS](https://www.vultr.com/): 윈도우 서버 VPS에서 당시 개발한 .NET 서버 호스팅
@@ -167,3 +169,4 @@
 ## Work Experiences
 
 - `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 백엔드 엔지니어로써 재직
+- `2024-05 ~        ` [Thingsflow](https://thingsflow.com/): 백엔드 엔지니어로써 재직
