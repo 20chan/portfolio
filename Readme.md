@@ -162,6 +162,7 @@
 - `2018-09` [Kwitter](https://github.com/20chan/Kwitter): 유투브/트위치 채팅 스트리밍 인터페이스같은 트위터 클라이언트
 - `2019-04` [λ-FizzBuzz](https://github.com/20chan/FizzBuzzInPureLambdaCalculus): 완전 순수 람다 대수로 구현한 FizzBuzz
 - `2020-05` [calimolite](https://github.com/20chan/calimolite): 자체 알고리즘으로 학습된 영단어 기반 새로운 영단어 생성
+- `2021-08` [euler](https://github.com/20chan/euler): array-lang J로 오일러 프로젝트 등반
 - `2021-09` [bard](https://github.com/20chan/bard): 디스코드 음악 재생 봇
 - `2023-10` [minecraft-dynmap-exporter](https://github.com/20chan/minecraft-dynmap-exporter): 마인크래프트 RCON 통신으로 플러그인 지표의 premetheus exporter
 - `2023-10` [minecraft-stats-discord-bot](https://github.com/20chan/minecraft-stats-discord-bot): 마인크래프트 서버의 플레이어 통계를 디스코드 봇으로 보여주는 서비스
