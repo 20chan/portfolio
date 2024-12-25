@@ -170,4 +170,4 @@
 ## Work Experiences
 
 - `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 백엔드 엔지니어로써 재직
-- `2024-05 ~        ` [Thingsflow](https://thingsflow.com/): 백엔드 엔지니어로써 재직
+- `2024-05 ~ 2024-11` [Thingsflow](https://thingsflow.com/): 백엔드 엔지니어로써 재직
