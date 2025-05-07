@@ -68,7 +68,7 @@
 - `2018-08` [shrew](https://github.com/20chan/shrew): 패턴 기반 인터프리터 언어
 - roslyn contributes: [#23833](https://github.com/dotnet/roslyn/issues/23833) [#39602](https://github.com/dotnet/roslyn/issues/39602)
 
-#### Server
+#### Server-ish
 
 - `2018-09` [SimpleWebServer](https://github.com/20chan/SimpleWebServer): HttpListener 기반 어트리뷰트-리플렉션 인터페이스를 사용한 웹서버 라이브러리
 - `2019-06` [CreamRoll](https://github.com/20chan/CreamRoll): DSL을 지원하는 바닥부터 구현된 서버 라이브러리
@@ -95,11 +95,17 @@
 - `2024-02` [radiota.pe](https://radiota.pe): 현재 재생중인 음악, 치지직 채팅 오버레이
 - `2024-04` [place](https://github.com/20chan/place): 실시간 픽셀아트 플랫폼 r/place clone
 - `2024-09` [legeno.gg](https://legeno.gg): 게임 특화 토너먼트 플랫폼
+- `2025-02` [retsuko](https://github.com/retsuko-trader/retsuko-backend): ASP.NET Core 기반 가상화폐 백테스팅/거래 봇 인프라, 백엔드, 프론트엔드와 MSA
+  - `2025-02` [retsuko-frontend](https://github.com/retsuko-trader/retsuko-frontend): nextjs v15 app router 로 구현된 retsuko 프론트엔드
+  - `2025-02` [retsuko-worker](https://github.com/retsuko-trader/retsuko-worker): ASP.NET Core 기반 실시간 웹소켓 구독 관리 마이크로서비스
+  - `2025-04` [cindy-healthcheck](https://github.com/20chan/cindy-healthcheck): 서비스 down 감지 깃헙 액션
 
 #### DevOps
-- `2016-02` [Vultr VPS](https://www.vultr.com/): 윈도우 서버 VPS에서 당시 개발한 .NET 서버 호스팅
 - `2020-06` [메일 서비스 구축](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/): aws lightsail에서 독자적 풀스택 메일 서비스 구축
 - `2021-03` 홈서버 구축: 다양한 서비스 호스팅 및 cloudflare dns + nginx/grafana/docker-compose 등의 인프라 구축
+
+#### Library
+- `2025-01` [kysely-duckdb-async](https://github.com/20chan/kysely-duckdb-async): kysely dialect for duckdb async bindings
 
 #### Software Engineering
 
@@ -171,3 +177,5 @@
 
 - `2018-10 ~ 2023-09` [5minlab](https://5minlab.com/): 백엔드 엔지니어로써 재직
 - `2024-05 ~ 2024-11` [Thingsflow](https://thingsflow.com/): 백엔드 엔지니어로써 재직
+- `2024-11 ~ 2025-01` [5minlab](https://5minlab.com/): 외주로 콘솔 포팅 업무 진행
+- `2025-01 ~        ` [5minlab](https://5minlab.com/): 백엔드 엔지니어로써 재직
