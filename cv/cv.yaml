@@ -1,0 +1,128 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/sinaatalay/rendercv/main/schema.json
+
+cv:
+  name: 이영찬
+  location: Seoul
+  email: 2@0chan.dev
+  website: https://blog.20chan.dev
+  social_networks:
+    - network: GitHub
+      username: 20chan
+  sections:
+    experience:
+      - company: 5minlab
+        position: 시니어 백엔드 엔지니어
+        date:
+        start_date: 2025-01
+        end_date:
+        summary:
+        highlights:
+          - AWS Gamelift SPOT + ON_DEMAND 최적화로 월 40%의 데디 서버 비용 절감
+          - 게임 인증 우회, 인게임 RPC authority 취약점 발견 및 패치
+          - Google Firestore 기반 서버리스 개발 파이프라인 구축, 서버 없이 게임 개발 기간을 3개월 이상 단축
+          - 닌텐도 스위치, Xbox, PS4 콘솔 포팅 과정에서 NPLN 멀티플레이 및 매치메이킹, 크로스 세이브 모듈 개발
+      - company: Thingsflow
+        position: 시니어 백엔드 엔지니어
+        date:
+        start_date: 2024-05
+        end_date: 2024-11
+        summary: 글로벌 챗봇 서비스 헬로우봇의 서버와 스튜디오 서버의 개발 및 유지보수
+        highlights:
+          - Braze Liquid Template, connected contents로 개인화 푸시 시스템 구축, CRM 캠페인 전환율 상승
+          - AI 챗봇 정기 구독 결제 시스템 개발
+          - 추천/피드 알고리즘의 시각화 및 디버깅 툴을 개발하여 개발/CS 업무 파이프라인 개선
+      - company: 5minlab
+        position: 백엔드 엔지니어 / 테크 리드
+        date:
+        start_date: 2018-10
+        end_date: 2023-09
+        summary: 글로벌 PvP 게임 스매시 레전드 (CCU 30k+, 누적 다운로드 1천만+) 서버 개발 및 운영 총괄
+        highlights:
+          - 구독 결제, 상점, 개인화 패키지, 클랜, 신고, 보상 등 주요 시스템 설계 및 개발
+          - 마스터데이터를 RDB에서 Redis + in-memory caching으로 전환하여 무점검 배포 구현과 모든 API 성능 개선
+          - Elasticsearch 기반 매치메이킹 결과 분석 툴 개발, 기존 휘발성 로그를 장기 보관 및 분석할 수 있게 개선
+          - Sentry 기반 API 성능 모니터링, Lock contention에 의한 slow query 개선
+          - Clickhouse 기반 인게임 지표 수집 및 통계 사이트 개발, DAU 1k+ 서비스 운영
+    projects:
+      - name: retsuko
+        date:
+        start_date: 2025-02
+        end_date:
+        location:
+        summary: 가상화폐 자동매매 봇
+        highlights:
+          - ASP.NET Core, Next.js, Redis, duckdb, gRPC, websocket 기반 풀스택 아키텍쳐 설계 및 개발
+          - 분리된 실시간 데이터 콜렉팅 서버와 알고리즘 서버를 grpc와 unix domain socket IPC로 연결하여 성능 극대화
+          - healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축
+          - downtime 없이 실시간 개발 가능한 prod/dev 서버 분리 아키텍쳐로 5+개월간 무중단 서비스 운영
+          - 오픈소스로 공개 ([github](https://github.com/retsuko-trader/retsuko-backend))
+      - name: '[legeno.gg](https://legeno.gg/)'
+        date: 2024-09
+        summary: 실시간 게임 토너먼트 대진표 생성/진행 플랫폼
+        highlights:
+          - discord authentication, 웹소켓 실시간 동기화 사이트를 nextjs로 개발
+          - 4회 이상 토너먼트 대회에 기용, 방송용 위젯과 커뮤니티에서 사용됨
+          - 오픈소스로 공개 ([github](https://github.com/20chan/legeno.gg))
+      - name: '[프로젝트 전체 목록](https://github.com/20chan/portfolio)'
+design:
+  theme: engineeringclassic
+  text:
+    font_family: Open Sans
+  section_titles:
+    vertical_space_above: 1cm
+    vertical_space_below: 0.5cm
+  entries:
+    vertical_space_between_entries: 2em
+  header:
+    vertical_space_between_name_and_connections: "0.7cm"
+    vertical_space_between_connections_and_first_section: "1cm"
+    horizontal_space_between_connections: "0.5cm"
+  entry_types:
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+  highlights:
+    top_margin: 0.25cm
+    left_margin: 0.15cm
+    vertical_space_between_highlights: 0.28cm
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: YEAR/MONTH_ABBREVIATION
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - '01'
+    - '02'
+    - '03'
+    - '04'
+    - '05'
+    - '06'
+    - '07'
+    - '08'
+    - '09'
+    - '10'
+    - '11'
+    - '12'
+  full_names_of_months:
+    - '01'
+    - '02'
+    - '03'
+    - '04'
+    - '05'
+    - '06'
+    - '07'
+    - '08'
+    - '09'
+    - '10'
+    - '11'
+    - '12'
+rendercv_settings:
+  date: '2025-09-04'
+  render_command:
+  bold_keywords: []
