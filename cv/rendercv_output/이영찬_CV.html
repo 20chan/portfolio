@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        이영찬's CV
+    </title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
+        integrity="sha512-Pmhg2i/F7+5+7SsdoUqKeH7UAZoVMYb1sxGOoJ0jWXAEHP0XV2H4CITyK267eHWp2jpj7rtqWNkmEOw1tNyYpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.css" integrity="sha384-PDbUeNCuE6bOPudPOgFyIUEy3UJawJVwr3XlGO90FIuf5qNIoTLSgOJo/dC2ZXV/" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.js" integrity="sha384-VkqWq8xtm5YQk1BBXczQ8/Sx+DlCzF8cuS43bZwmtVXzRFtyLTqTCdP7MKmKo+KN" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"
+        onload="renderMathInElement(document.body, {delimiters: [{ left: '$$',  right: '$$',  display: false }]});"></script>
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <article class="markdown-body">
+        <h1>이영찬's CV</h1>
+        <ul>
+        <li>Email: <a href="mailto:2@0chan.dev">2@0chan.dev</a></li>
+        <li>Location: Seoul</li>
+        <li>Website: <a href="https://blog.20chan.dev/">blog.20chan.dev</a></li>
+        <li>GitHub: <a href="https://github.com/20chan">20chan</a></li>
+        </ul>
+        <h1>Experience</h1>
+        <h2>5minlab, 시니어 백엔드 엔지니어</h2>
+        <ul>
+        <li>2025/01 – present</li>
+        <li>AWS Gamelift SPOT + ON_DEMAND 최적화로 월 40%의 데디 서버 비용 절감</li>
+        <li>게임 인증 우회, 인게임 RPC authority 취약점 발견 및 패치</li>
+        <li>Google Firestore 기반 서버리스 개발 파이프라인 구축, 서버 없이 게임 개발 기간을 3개월 이상 단축</li>
+        <li>닌텐도 스위치, Xbox, PS4 콘솔 포팅 과정에서 NPLN 멀티플레이 및 매치메이킹, 크로스 세이브 모듈 개발</li>
+        </ul>
+        <h2>Thingsflow, 시니어 백엔드 엔지니어</h2>
+        <ul>
+        <li>2024/05 – 2024/11</li>
+        <li>Braze Liquid Template, connected contents로 개인화 푸시 시스템 구축, CRM 캠페인 전환율 상승</li>
+        <li>AI 챗봇 정기 구독 결제 시스템 개발</li>
+        <li>추천/피드 알고리즘의 시각화 및 디버깅 툴을 개발하여 개발/CS 업무 파이프라인 개선</li>
+        </ul>
+        <h2>5minlab, 백엔드 엔지니어 / 테크 리드</h2>
+        <ul>
+        <li>2018/10 – 2023/09</li>
+        <li>구독 결제, 상점, 개인화 패키지, 클랜, 신고, 보상 등 주요 시스템 설계 및 개발</li>
+        <li>마스터데이터를 RDB에서 Redis + in-memory caching으로 전환하여 무점검 배포 구현과 모든 API 성능 개선</li>
+        <li>Elasticsearch 기반 매치메이킹 결과 분석 툴 개발, 기존 휘발성 로그를 장기 보관 및 분석할 수 있게 개선</li>
+        <li>Sentry 기반 API 성능 모니터링, Lock contention에 의한 slow query 개선</li>
+        <li>Clickhouse 기반 인게임 지표 수집 및 통계 사이트 개발, DAU 1k+ 서비스 운영</li>
+        </ul>
+        <h1>Projects</h1>
+        <h2>retsuko</h2>
+        <ul>
+        <li>2025/02 – present</li>
+        <li>ASP.NET Core, Next.js, Redis, duckdb, gRPC, websocket 기반 풀스택 아키텍쳐 설계 및 개발</li>
+        <li>분리된 실시간 데이터 콜렉팅 서버와 알고리즘 서버를 grpc와 unix domain socket IPC로 연결하여 성능 극대화</li>
+        <li>healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축</li>
+        <li>downtime 없이 실시간 개발 가능한 prod/dev 서버 분리 아키텍쳐로 5+개월간 무중단 서비스 운영</li>
+        <li>오픈소스로 공개 (<a href="https://github.com/retsuko-trader/retsuko-backend">github</a>)</li>
+        </ul>
+        <h2><a href="https://legeno.gg/">legeno.gg</a></h2>
+        <ul>
+        <li>2024/09</li>
+        <li>discord authentication, 웹소켓 실시간 동기화 사이트를 nextjs로 개발</li>
+        <li>4회 이상 토너먼트 대회에 기용, 방송용 위젯과 커뮤니티에서 사용됨</li>
+        <li>오픈소스로 공개 (<a href="https://github.com/20chan/legeno.gg">github</a>)</li>
+        </ul>
+        <h2><a href="https://github.com/20chan/portfolio">프로젝트 전체 목록</a></h2>
+    </article>
+</body>
+
+</html>
