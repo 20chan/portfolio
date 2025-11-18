@@ -3,9 +3,9 @@
 
 #let name = "이영찬"
 #let locale-catalog-page-numbering-style = context { "이영찬 - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in 2025/09"
+#let locale-catalog-last-updated-date-style = "Last updated in 2025/11"
 #let locale-catalog-language = "en"
-#let design-page-size = "us-letter"
+#let design-page-size = "a4"
 #let design-section-titles-font-size = 1.4em
 #let design-colors-text = rgb(0, 0, 0)
 #let design-colors-section-titles = rgb(0, 79, 144)
@@ -460,6 +460,14 @@
 
 
 
+== About Me
+
+
+#one-col-entry(
+  content: [시니어 백엔드 엔지니어이자, 인프라\/웹\/게임\/툴 풀스택을 겸하는 7년차 프로그래머입니다.]
+)
+
+
 == Experience
 
 
@@ -490,14 +498,14 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [글로벌 챗봇 서비스 헬로우봇의 서버와 스튜디오 서버의 개발 및 유지보수])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Braze Liquid Template, connected contents로 개인화 푸시 시스템 구축, CRM 캠페인 전환율 상승],[AI 챗봇 정기 구독 결제 시스템 개발],[추천\/피드 알고리즘의 시각화 및 디버깅 툴을 개발하여 개발\/CS 업무 파이프라인 개선],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([CRM 캠페인 전환율 상승을 위한 Braze Liquid Template, connected contents로 개인화 푸시 시스템 구축],[AI 챗봇 정기 구독 결제 시스템 개발],[추천\/피드 알고리즘의 시각화 및 디버깅 툴을 개발하여 개발\/CS 업무 파이프라인 개선],)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[5minlab], 백엔드 엔지니어 \/ 테크 리드
+    #strong[5minlab], 백엔드 엔지니어 \/ 팀 테크 리드
   ],
   right-content: [
     2018/10 – 2023/09
@@ -507,7 +515,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [글로벌 PvP 게임 스매시 레전드 \(CCU 30k+, 누적 다운로드 1천만+\) 서버 개발 및 운영 총괄])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([구독 결제, 상점, 개인화 패키지, 클랜, 신고, 보상 등 주요 시스템 설계 및 개발],[마스터데이터를 RDB에서 Redis + in-memory caching으로 전환하여 무점검 배포 구현과 모든 API 성능 개선],[Elasticsearch 기반 매치메이킹 결과 분석 툴 개발, 기존 휘발성 로그를 장기 보관 및 분석할 수 있게 개선],[Sentry 기반 API 성능 모니터링, Lock contention에 의한 slow query 개선],[Clickhouse 기반 인게임 지표 수집 및 통계 사이트 개발, DAU 1k+ 서비스 운영],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([구독 결제, 상점, 개인화 패키지, 클랜, 신고, 보상 등 주요 시스템 설계 및 개발],[서버리스 아웃게임 서버의 마스터데이터를 RDB에서 Redis 캐싱으로 무점검 배포 구현과 모든 API 성능 개선],[Elasticsearch 기반 매치메이킹 결과 분석 툴 개발, 기존 휘발성 로그를 장기 보관 및 분석할 수 있게 개선],[Sentry\/Elasticsearch 기반 API 성능 모니터링 및 트래킹, Lock contention에 의한 slow query 개선],[DAU 1K+의 Clickhouse 기반 인게임 캐릭터 지표 사이트 개발, 런칭],)
   ],
 )
 
@@ -528,7 +536,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [가상화폐 자동매매 봇])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([ASP.NET Core, Next.js, Redis, duckdb, gRPC, websocket 기반 풀스택 아키텍쳐 설계 및 개발],[분리된 실시간 데이터 콜렉팅 서버와 알고리즘 서버를 grpc와 unix domain socket IPC로 연결하여 성능 극대화],[healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축],[downtime 없이 실시간 개발 가능한 prod\/dev 서버 분리 아키텍쳐로 5+개월간 무중단 서비스 운영],[오픈소스로 공개 \(#link("https://github.com/retsuko-trader/retsuko-backend")[github]\)],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([ASP.NET Core, Next.js, Redis, duckdb, UDS gRPC 기반 풀스택 아키텍쳐 설계 및 개발],[분리된 실시간 데이터 콜렉팅 서버와 알고리즘 서버를 grpc와 unix domain socket IPC로 연결하여 성능 극대화],[healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축],[downtime 없이 실시간 개발 가능한 prod\/dev 서버 분리 아키텍쳐로 8+개월간 무중단 서비스 운영],[오픈소스로 공개 \(#link("https://github.com/retsuko-trader/retsuko-backend")[github]\)],)
   ],
 )
 
@@ -545,7 +553,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [실시간 게임 토너먼트 대진표 생성\/진행 플랫폼])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([discord authentication, 웹소켓 실시간 동기화 사이트를 nextjs로 개발],[4회 이상 토너먼트 대회에 기용, 방송용 위젯과 커뮤니티에서 사용됨],[오픈소스로 공개 \(#link("https://github.com/20chan/legeno.gg")[github]\)],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([discord authentication, 웹소켓 실시간 동기화를 sqlite를 사용한 풀스택 서버 nextjs로 개발],[4회 이상 토너먼트 대회에 기용, 방송용 위젯과 커뮤니티에서 사용됨],[오픈소스로 공개 \(#link("https://github.com/20chan/legeno.gg")[github]\)],)
   ],
 )
 
@@ -555,7 +563,8 @@
   content: [
     #link("https://github.com/20chan/portfolio")[#strong[프로젝트 전체 목록]] 
 
-    
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [100여개의 개인 프로젝트 전체 목록])], column-gutter: 0cm)
   ],
 )
 

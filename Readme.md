@@ -11,7 +11,7 @@
 - **Github** : [20chan](https://github.com/20chan)
 - **블로그** : [20chan](https://blog.0chan.dev/)
 - 이메일 : [2@0chan.dev](mailto:2@0chan.dev)
-- **RESUME** : [20chan](https://0chan.dev/resume)
+- **RESUME** : [20chan](https://0chan.dev/resume.pdf)
 
 ## Personal Experiences
 
