@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        이영찬 - portfolio's CV
+    </title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
+        integrity="sha512-Pmhg2i/F7+5+7SsdoUqKeH7UAZoVMYb1sxGOoJ0jWXAEHP0XV2H4CITyK267eHWp2jpj7rtqWNkmEOw1tNyYpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.css" integrity="sha384-PDbUeNCuE6bOPudPOgFyIUEy3UJawJVwr3XlGO90FIuf5qNIoTLSgOJo/dC2ZXV/" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.js" integrity="sha384-VkqWq8xtm5YQk1BBXczQ8/Sx+DlCzF8cuS43bZwmtVXzRFtyLTqTCdP7MKmKo+KN" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"
+        onload="renderMathInElement(document.body, {delimiters: [{ left: '$$',  right: '$$',  display: false }]});"></script>
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <article class="markdown-body">
+        <h1>이영찬 - portfolio's CV</h1>
+        <ul>
+        <li>Email: <a href="mailto:2@0chan.dev">2@0chan.dev</a></li>
+        <li>Location: Seoul</li>
+        <li>Website: <a href="https://blog.20chan.dev/">blog.20chan.dev</a></li>
+        <li>GitHub: <a href="https://github.com/20chan">20chan</a></li>
+        </ul>
+        <h1>About Me</h1>
+        <p>바닥부터 엔드 투 엔드 시스템을 만들어서 사용하는 것을 즐깁니다. 커뮤니케이션, 문서화, 프로덕션화, 모니터링의 프로세스에 능숙하며,
+        넓은 도메인과 새로운 기술에 빠르고 깊이 있게 적응하는 강점이 있습니다.</p>
+        <p>언어나 프레임워크에 전혀 구애받지 않지만, typescript, c#, python에 능숙하며, rust와 go, java 경험이 있습니다.
+        nextjs/tanstack/svelte/astro 등의 프론트엔드와 winform/wpf 등의 데스크탑 어플리케이션 개발 경험이 다수 있습니다.</p>
+        <h1>Personal Experience</h1>
+        <h2>retsuko</h2>
+        <ul>
+        <li>2025/02 – present</li>
+        <li>Next.js, sqlite 기반 풀스택 아키텍쳐로 시작한 개인 프로젝트</li>
+        <li>20M+ ticker와 수백개의 백테스팅에 성능 문제가 있어 벤치마크 후 duckdb와 서버를 ASP.NET Core로 이전, 실시간으로 ticker를 웹소켓으로 받고 redis reliable queue로 메인 서버에 보내는 fetch 서버와 db 서버로 분리</li>
+        <li>ASP.NET Core, Next.js, Redis, duckdb, UDS gRPC 기반 풀스택 아키텍쳐 설계 및 개발</li>
+        <li>production에서 작동하는 알고리즘의 정합성을 위해 db 서버와 알고리즘 서버를 unix domain socket 기반 grpc로 통신하도록 분리 후 prod/dev 알고리즘 서버 아키텍쳐를 구축</li>
+        <li>3M+ ticker에 대해 100개의 스트림으로 동시 백테스팅과 실거래가 가능한 구조로 최적화, 개인 서버에서 10+개월간 무중단 서비스 운영</li>
+        <li>healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축</li>
+        <li>오픈소스로 공개 (<a href="https://github.com/retsuko-trader/retsuko-backend">github</a>)</li>
+        </ul>
+        <h2>infra</h2>
+        <ul>
+        <li>arch linux, manjaro, ubuntu, lxc 등의 리눅스 서버 관리 및 유지보수</li>
+        <li>nginx, caddy, certbot 등의 리버시 프록시 관리와 라우터 ddns/포트포워딩, managed switch, ufw, fail2ban, ssh jailbreak 등의 네트워크와 보안 관리</li>
+        <li>cloudflare, aws route53 등의 dns 관리</li>
+        <li>docker/self-hosted grafana, signoz, umami, nextcloud, immich, n8n, minecraft, factorio, valheim 호스트</li>
+        <li>직접 만든 여러 서비스 호스팅 및 도메인 관리, ssh/vscode remote 개발 환경</li>
+        </ul>
+        <h1>Experience</h1>
+        <h2>5minlab 스매시 레전드 매치메이킹 서버 개선</h2>
+        <ul>
+        <li>2021/03</li>
+        <li>기존에는 복잡한 매치메이킹 로직이 redis에만 의존해 휘발성 로그로 분석이 어려워 개선이 힘든 상황</li>
+        <li>Elasticsearch 로 새로운 로그 파이프라인과 매치메이킹 데이터 모니터링/디버깅 툴 개발</li>
+        <li>문제가 되는 케이스를 찾거나 디버깅이 가능하게 되어 매치메이킹 품질 개선에 기여</li>
+        </ul>
+        <h2>5minlab 스매시 레전드 유저 신고/제재 시스템 개발</h2>
+        <ul>
+        <li>2022/04</li>
+        <li>게임 내 유저 신고 및 제재 시스템 설계 및 개발</li>
+        <li>gform + gsheet/이슈 트래커 연동으로 개발 후 트래킹에 어려움이 있어 clickhouse 기반 자체 툴 개발로 운영팀의 업무 파이프라인 개선</li>
+        <li>제재 대상 필터링, 게임팟 자동 제재 등의 자동화로 시간 소요 감소</li>
+        </ul>
+        <h2>5minlab 스매시 레전드 게임 통계 사이트 개발 및 운영</h2>
+        <ul>
+        <li>2022/05 – 2023/09</li>
+        <li>인게임 기획자들의 캐릭터 승률/픽률 등의 지표 확인 요청을 자동화하기 위해 개발</li>
+        <li>기존 단발성 쿼리 요청과 gsheet 기반 업무를 clickhouse 기반 웹 대시보드로 전환, 편의성과 접근성 크게 향상</li>
+        <li>유저들에게 공개를 건의 후 정식 런칭, DAU 1K+ 의 안정적인 서비스 운영</li>
+        <li>가이드 혹은 상위 유저 분석, 티어별/국가별 캐릭터와 맵, 다양한 지표를 시각화하여 온보딩 개선과 커뮤니티 활성화</li>
+        </ul>
+    </article>
+</body>
+
+</html>

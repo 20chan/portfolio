@@ -8,7 +8,13 @@
 
 # About Me
 
-시니어 백엔드 엔지니어이자, 인프라/웹/게임/툴 풀스택을 겸하는 7년차 프로그래머입니다.
+시니어 백엔드 엔지니어이자, 인프라/웹/게임/자동화 풀스택을 겸합니다.
+사람들이 사용하는 제품을 만드는 것이 좋으며, 업무에서는 협업의 효율성을 높이는 데에 큰 가치를 둡니다.
+
+
+바닥부터 엔드 투 엔드 시스템을 만들어서 사용하는 것을 즐깁니다. 커뮤니케이션, 문서화, 프로덕션화, 모니터링의 프로세스에 능숙하며,
+넓은 도메인과 새로운 기술에 빠르고 깊이 있게 적응하는 강점이 있습니다.
+
 
 # Experience
 
@@ -44,7 +50,7 @@
 - ASP.NET Core, Next.js, Redis, duckdb, UDS gRPC 기반 풀스택 아키텍쳐 설계 및 개발
 - 분리된 실시간 데이터 콜렉팅 서버와 알고리즘 서버를 grpc와 unix domain socket IPC로 연결하여 성능 극대화
 - healthchecks.io, discord 연동과 OpenTelemetry와 signoz로 높은 observability 구축
-- downtime 없이 실시간 개발 가능한 prod/dev 서버 분리 아키텍쳐로 8+개월간 무중단 서비스 운영
+- downtime 없이 실시간 개발 가능한 prod/dev 서버 분리 아키텍쳐로 10+개월간 무중단 서비스 운영
 - 오픈소스로 공개 ([github](https://github.com/retsuko-trader/retsuko-backend))
 
 ## [legeno.gg](https://legeno.gg/)
